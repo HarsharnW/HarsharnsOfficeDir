@@ -1,0 +1,5 @@
+git clone https://github.com/HarsharnW/HarsharnsOfficeDir.git
+git init
+git add .
+git commit -m "Added to repository"
+git push -u origin main
